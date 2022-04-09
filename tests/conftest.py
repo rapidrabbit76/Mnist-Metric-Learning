@@ -15,6 +15,8 @@ def args():
             "backbone": "ResNet",
             "batch_size": 10,
             "num_classes": 10,
+            "margin": 10,
+            "scale": 10,
             "lr": 0.0001,
             "momentum": 0.0000,
             "weight_decay": 0.0000,
