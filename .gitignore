@@ -1,0 +1,32 @@
+# IDE
+.vscode/
+
+# CACHE
+**/__pycache__/**
+.pytest_cache
+.testmondata
+
+# DATASET
+dataset/
+dataset
+DATASET/
+DATASET
+
+# models
+*.zip
+*.pt.zip
+*.pt
+*.pth
+*.onnx
+
+# video
+./src/video
+
+# Log
+lightning_logs/
+
+# test
+.coverage
+
+# ETC
+tools.ipynb
